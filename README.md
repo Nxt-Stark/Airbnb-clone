@@ -23,6 +23,7 @@ This project is a simple **Airbnb clone** built with **HTML**, **CSS**, **Bootst
 Here are some screenshots of the project:
 
 ![Homepage](screenshots/Screenshot1.png)
+![Menupage](screenshots/Screenshot2.png)
 
 ## 📝 Installation
 
